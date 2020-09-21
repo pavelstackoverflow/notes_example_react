@@ -1,0 +1,39 @@
+.add-item {
+
+  &__popup {
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  &__popup.active {
+    opacity: 1;
+  }
+
+  & img {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 5px;
+    opacity: 0.3;
+    transition: opacity 0.3s;
+
+    &:first-child {
+      margin-right: 10px;
+    }
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+
+  text-align: center;
+  &-confirm {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+  }
+
+}
+

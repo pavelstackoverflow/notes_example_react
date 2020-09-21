@@ -1,0 +1,80 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName" : "Обучение",
+    "noteList": [
+      {
+        "noteId": 1,
+        "noteName": "Изучить React",
+        "completed": false
+      },
+      {
+        "noteId": 2,
+        "noteName": "Изучить React useState",
+        "completed": true
+      },
+      {
+        "noteId": 3,
+        "noteName": "Изучить React useEffect",
+        "completed": true
+      },
+      {
+        "noteId": 4,
+        "noteName": "Изучить React useContext",
+        "completed": false
+      },
+      {
+        "noteId": 5,
+        "noteName": "Изучить React useReducer",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "categoryId": 2,
+    "categoryName" : "Работа",
+    "noteList": [
+      {
+        "noteId": 6,
+        "noteName": "Сделать квартальный отчет",
+        "completed": true
+      },
+      {
+        "noteId": 7,
+        "noteName": "Установить систему",
+        "completed": false
+      },
+      {
+        "noteId": 8,
+        "noteName": "Сделать backup",
+        "completed": true
+      }
+    ]
+  },
+  {
+    "categoryId": 3,
+    "categoryName" : "Дела",
+    "noteList": [
+      {
+        "noteId": 9,
+        "noteName": "Купить хлеб",
+        "completed": false
+      },
+      {
+        "noteId": 10,
+        "noteName": "Приготовить ужин",
+        "completed": false
+      },
+      {
+        "noteId": 11,
+        "noteName": "Сходить в спортзал",
+        "completed": false
+      },
+      {
+        "noteId": 12,
+        "noteName": "Помыть машину",
+        "completed": false
+      }
+    ]
+  }
+]

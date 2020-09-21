@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Обучение"
+    },
+    {
+      "id": 2,
+      "name": "Работа"
+    },
+    {
+      "id": 3,
+      "name": "Дела"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "name": "Изучить React",
+      "completed": true,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Изучить React useState",
+      "completed": true,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Изучить React useEffect",
+      "completed": true,
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Изучить React useReducer",
+      "completed": true,
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Сделать квартальный отчет",
+      "completed": false,
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "Установить систему",
+      "completed": true,
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "Сделать backup",
+      "completed": true,
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "name": "Сходить в спортзал",
+      "completed": true,
+      "categoryId": 3
+    },
+    {
+      "id": 9,
+      "name": "Купить хлеб",
+      "completed": false,
+      "categoryId": 3
+    },
+    {
+      "id": 10,
+      "name": "Приготовить ужин",
+      "completed": true,
+      "categoryId": 3
+    },
+    {
+      "id": 11,
+      "name": "Помыть машину",
+      "completed": true,
+      "categoryId": 3
+    },
+    {
+      "name": "очень длинная задача очень длинная задача сократим",
+      "completed": true,
+      "categoryId": 3,
+      "id": 15
+    }
+  ]
+}
